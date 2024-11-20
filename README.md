@@ -58,7 +58,9 @@ pip install -r requirements.txt
 ---
 
 ## **Пример работы программы**  
-
+![api_key](./assets/api_key.gif)
+![category](./assets/category.gif)
+![final](./assets/final.gif)
 ---
 
 ## **Зависимости**  
