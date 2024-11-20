@@ -26,14 +26,14 @@
 ### 2. Склонируйте репозиторий  
 ```bash  
 git clone https://github.com/ARibleTeam/2GIS-API-parser.git
-cd 2GIS-API-parser.git  
+cd 2GIS-API-parser
 ```  
 
 ### 3. Установите зависимости  
-Создайте виртуальное окружение и установите зависимости:  
+Создайте виртуальное окружение и установите зависимости (командная строка или PowerShell):  
 ```bash  
 python -m venv venv  
-source venv/bin/activate    # Для Windows: venv\Scripts\activate  
+source venv/bin/activate    # Для Windows (CMD): venv\Scripts\activate  
 pip install -r requirements.txt  
 ```  
 
