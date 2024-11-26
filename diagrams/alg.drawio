@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.9.1">
+  <diagram name="Страница — 1" id="G0jTIzs2osJNDG6Pgnfx">
+    <mxGraphModel dx="792" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-17" target="rdqni-rVsoC4mDcSV2fH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="451" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-18" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rdqni-rVsoC4mDcSV2fH-9">
+          <mxGeometry x="-0.43" y="-3" relative="1" as="geometry">
+            <mxPoint x="-5" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-2" target="rdqni-rVsoC4mDcSV2fH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-2" value="Ввод города" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="550" y="355" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-3" target="rdqni-rVsoC4mDcSV2fH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-3" value="Вывод списка городов" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="543" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-5" target="rdqni-rVsoC4mDcSV2fH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-5" value="Выбор города" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="341" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-7" target="rdqni-rVsoC4mDcSV2fH-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-7" value="Вывод списка категорий" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="341" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-12" target="rdqni-rVsoC4mDcSV2fH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-12" value="Выбор категорий для парсинга" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="543" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-13" target="rdqni-rVsoC4mDcSV2fH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-13" value="Парсинг данных" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="543" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-15" target="rdqni-rVsoC4mDcSV2fH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-15" value="Сохранение данных в EXCEL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="351" y="780" width="99" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-17" target="rdqni-rVsoC4mDcSV2fH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-21" value="НЕТ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rdqni-rVsoC4mDcSV2fH-20">
+          <mxGeometry x="-0.1381" y="3" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-17" value="Ключ API 2ГИС введен" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="336" y="170" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-19" target="rdqni-rVsoC4mDcSV2fH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-19" value="Ввод API 2ГИС ключа" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="305.13" y="360" width="190.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdqni-rVsoC4mDcSV2fH-23" target="rdqni-rVsoC4mDcSV2fH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-23" value="НАЧАЛО" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="351" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdqni-rVsoC4mDcSV2fH-25" value="КОНЕЦ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
